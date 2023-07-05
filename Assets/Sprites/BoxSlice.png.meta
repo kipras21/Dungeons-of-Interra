@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 5c47c10ebd3b18442b0cb0e2bd1c4d72
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoxSlice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0ecf2c8b6284d44a9b620ac69fb6d8
+      internalID: 1987344695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSlice_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8ba861c2a9ba5459b1896887a76959
+      internalID: -294416725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSlice_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7ed3c46b941c74a9c8434e529b6816
+      internalID: -1264438528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSlice_3
+      rect:
+        serializedVersion: 2
+        x: 3.5
+        y: 9.5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e1ca677ccfef34e9b197adc4dacdfe
+      internalID: -1418781216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSlice_4
+      rect:
+        serializedVersion: 2
+        x: 10.5
+        y: 9.5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6adae1c4cd5064a8f96d369ea1b60b
+      internalID: -1890007337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSlice_5
+      rect:
+        serializedVersion: 2
+        x: 17.5
+        y: 9.5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5563149488ca1c5438489336c10101c9
+      internalID: -634393902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSlice_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3928ffad6bd0b4344a2dea6a4850fb32
+      internalID: -1041058479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSlice_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c73048515efe64ab421174d68e4b38
+      internalID: -457890674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSlice_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e0f9ad142ae224c97a95416b581fec
+      internalID: -1585316789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSlice_9
+      rect:
+        serializedVersion: 2
+        x: 3.5
+        y: 2.5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7447ae8248668a14aa27f2ef0a4b8506
+      internalID: -306670395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSlice_10
+      rect:
+        serializedVersion: 2
+        x: 10.5
+        y: 2.5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c486d9b59f0995149991959b9a35e02a
+      internalID: -1056895951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoxSlice_11
+      rect:
+        serializedVersion: 2
+        x: 17.5
+        y: 2.5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -3.5}
+        - {x: 3.5, y: 0}
+        - {x: 0, y: 3.5}
+        - {x: -3.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47c054c3581a5547b21524f7eeaee47
+      internalID: -654471450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BoxSlice_1: -294416725
+      BoxSlice_11: -654471450
+      BoxSlice_3: -1418781216
+      BoxSlice_6: -1041058479
+      BoxSlice_5: -634393902
+      BoxSlice_0: 1987344695
+      BoxSlice_8: -1585316789
+      BoxSlice_4: -1890007337
+      BoxSlice_7: -457890674
+      BoxSlice_10: -1056895951
+      BoxSlice_2: -1264438528
+      BoxSlice_9: -306670395
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

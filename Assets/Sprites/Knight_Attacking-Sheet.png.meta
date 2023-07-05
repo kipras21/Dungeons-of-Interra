@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 15164c002a4dfc342932654c3bd21a5c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b338aaa237edb4d88c1f9014dcc4fa
+      internalID: 1411887015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 332.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a5b9ee5e29eeb449096dbbb82c1ac2
+      internalID: -2037484172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 332.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d364c2879fc047934b98ce31a9415
+      internalID: 1135299615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 332.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc4b1033357df943983e7c81e3ff2a8
+      internalID: -1075759981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 332.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78479699f422bca48b3a41cd20e92bad
+      internalID: -1932990834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 332.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c232e21a4cbdbb42ba452c1bb89cdd2
+      internalID: -439146571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 332.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e1c348c1b511d41816ece6850c03f2
+      internalID: -1212280814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 332.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475ba2fce612a15469c0ba2a17cb61d7
+      internalID: 1350383861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359ced0686855f94fa44d98b36d7b154
+      internalID: 731173679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 250.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5624c49d4817fa4ca822bf0debf3a1b
+      internalID: -1840521693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 250.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76050d2efa0752948ac990365966ac99
+      internalID: -1741896151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 250.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff825db09a789f41a4a56da8d704ee9
+      internalID: -211606389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 250.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e83746d212505a489f69e83df5e755e
+      internalID: 2104770004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 250.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c329ce73ca1f24ab34d20c750721a3
+      internalID: 1865337867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 250.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b811d1d6a91ed4ea2d5b30af9e415c
+      internalID: 829821740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 250.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fe5a2e12e9559428fef78b08af07e9
+      internalID: 1888456537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baecea8b5fdc9264f8e1493a2134e81b
+      internalID: 2057113195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 168.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299d689722dd06498a71c2a321734ff
+      internalID: -1054315954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 168.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c365bb956bf060b4cb1ac2f51f1d45d9
+      internalID: 641642887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 168.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defa810d8f54bb94283d661e43c4ccac
+      internalID: -423210745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 168.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034ce1d71364ad040bdb3f9502a407d7
+      internalID: 1524450553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 168.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d9e63d908460c4da7032296c79281a
+      internalID: 317570897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 168.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d138913db484dfc4680cb1e622da4fdf
+      internalID: 1789091134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 168.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c4049690fc1ec4eb2c3550a725a4bc
+      internalID: 1695438947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ee468818f03754e9087a26d86569c5
+      internalID: -1294518070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 86.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a9422c2b4660f4c9aa0613254e810b
+      internalID: 1354637526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 86.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24ac5db3547a214ebaf07a67f25c4f7
+      internalID: -1932898418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 86.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2963ce501fbba4692ae41dec466185
+      internalID: -17774021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 86.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120131ceb35bf8e4085f45d3ebcf2539
+      internalID: 2061499064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 86.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378b08e4b4e322841b639de154339529
+      internalID: 421349628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 86.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2f20594e81bb5489674a8643f493cc
+      internalID: 598312764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 86.8
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81392b9c640d65848af030acf66969f1
+      internalID: -902915815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.800003
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164dff8fb63d219409c7a6caffa811d4
+      internalID: 1708521657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4.800003
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6683a47d61dbf9949a0b945884e1293c
+      internalID: -894050699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4.800003
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf137e62f1301384c83370ed398109ce
+      internalID: 926588268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4.800003
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8680023ca3fed8246904789c1bc0d8a1
+      internalID: -12314595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4.800003
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988c25c68e2849448906cae6360e209a
+      internalID: 1326391694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4.800003
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6666cf112cbda74b950b1b3640b0a2a
+      internalID: -747950506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4.800003
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a30ab54b9eff468b27428594b8a46
+      internalID: 2005963107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Attacking-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 4.800003
+        width: 54
+        height: 78.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b3dae9901a7e7409fd0a427f5690a5
+      internalID: 1999877754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Knight_Attacking-Sheet_13: 1865337867
+      Knight_Attacking-Sheet_16: 2057113195
+      Knight_Attacking-Sheet_6: -1212280814
+      Knight_Attacking-Sheet_3: -1075759981
+      Knight_Attacking-Sheet_10: -1741896151
+      Knight_Attacking-Sheet_12: 2104770004
+      Knight_Attacking-Sheet_14: 829821740
+      Knight_Attacking-Sheet_11: -211606389
+      Knight_Attacking-Sheet_29: 421349628
+      Knight_Attacking-Sheet_18: 641642887
+      Knight_Attacking-Sheet_17: -1054315954
+      Knight_Attacking-Sheet_37: -747950506
+      Knight_Attacking-Sheet_5: -439146571
+      Knight_Attacking-Sheet_8: 731173679
+      Knight_Attacking-Sheet_22: 1789091134
+      Knight_Attacking-Sheet_2: 1135299615
+      Knight_Attacking-Sheet_32: 1708521657
+      Knight_Attacking-Sheet_39: 1999877754
+      Knight_Attacking-Sheet_15: 1888456537
+      Knight_Attacking-Sheet_33: -894050699
+      Knight_Attacking-Sheet_36: 1326391694
+      Knight_Attacking-Sheet_23: 1695438947
+      Knight_Attacking-Sheet_38: 2005963107
+      Knight_Attacking-Sheet_28: 2061499064
+      Knight_Attacking-Sheet_19: -423210745
+      Knight_Attacking-Sheet_20: 1524450553
+      Knight_Attacking-Sheet_35: -12314595
+      Knight_Attacking-Sheet_31: -902915815
+      Knight_Attacking-Sheet_26: -1932898418
+      Knight_Attacking-Sheet_30: 598312764
+      Knight_Attacking-Sheet_0: 1411887015
+      Knight_Attacking-Sheet_24: -1294518070
+      Knight_Attacking-Sheet_1: -2037484172
+      Knight_Attacking-Sheet_7: 1350383861
+      Knight_Attacking-Sheet_21: 317570897
+      Knight_Attacking-Sheet_34: 926588268
+      Knight_Attacking-Sheet_9: -1840521693
+      Knight_Attacking-Sheet_25: 1354637526
+      Knight_Attacking-Sheet_4: -1932990834
+      Knight_Attacking-Sheet_27: -17774021
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
